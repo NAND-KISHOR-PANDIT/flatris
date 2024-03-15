@@ -11,3 +11,6 @@
 Thanks [@paulgergely](https://twitter.com/paulgergely) for the initial flat design!
 
 Also see [elm-flatris](https://github.com/w0rm/elm-flatris).
+
+This is the test edit of the readme file by Dev-azure-boards.
+
